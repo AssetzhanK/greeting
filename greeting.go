@@ -8,4 +8,5 @@ func Hello() {
 
 func Hi() {
 	fmt.Println("Hi!")
+	fmt.Println("Hi!")
 }
